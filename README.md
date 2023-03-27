@@ -2,10 +2,10 @@
 
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!
 
-<!-- Зверушки -->
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/tree/main/assets/tiger.gif" alt="Tiger" width="75">
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/tree/main/assets/owl.gif" alt="Owl" width="75">
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/tree/main/assets/elephant.gif" alt="Elephant" width="75">
+<div align="center">
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75">
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75">
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75">
 </div>
 
 ## Мои навыки 🛠
@@ -21,7 +21,6 @@
 
 ## Статистика разработчика 📈
 
-<!-- Добавьте этот код в свой README.md -->
 <div align="center">
   <a href="https://github.com/AlexanderOsharov">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=default&hide_border=true&hide=stars" alt="Статистика пользователя">
@@ -31,11 +30,13 @@
   </a>
 </div>
 
-<!-- Конец кода README.md -->
-
 Мне будет приятно, если вы свяжетесь со мной!
 
 - [VK](https://vk.com/)
 - [WhatsApp](https://www.whatsapp.com/)
 - [GitHub](https://github.com/AlexanderOsharov)
 - [Telegram](https://telegram.org/)
+
+---
+
+<center>🐅 🦉 🐘</center>
