@@ -1,3 +1,8 @@
+---
+title: Resume
+stylesheets:
+- https://github.com/AlexanderOsharov/AleksanderOsharov/assets/style.css
+---
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
