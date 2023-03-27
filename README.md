@@ -28,6 +28,14 @@
   <a href="https://github.com/AlexanderOsharov">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=10&theme=default&hide_border=true" alt="Наиболее используемые языки">
   </a>
+  <!-- GitHub Gist -->
+<script src="https://gist.github.com/AlexanderOsharov/gist-id.js"></script>
+
+<!-- GitHub Badge -->
+[![Build Status](https://img.shields.io/github/workflow/status/AlexanderOsharov/resume/build?style=flat-square)](https://github.com/AlexanderOsharov/resume/actions)
+
+<!-- GitHub Card -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderOsharov&repo=repo-name)](https://github.com/AlexanderOsharov/resume)
 </div>
 
 Мне будет приятно, если вы свяжетесь со мной!
