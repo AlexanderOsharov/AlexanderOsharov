@@ -2,6 +2,11 @@
 
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub! 
 
+<div align="center"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:15%;left:20%;transform: rotate(-20deg);z-index:-1;"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:55%;transform: rotate(-10deg);z-index:-1;"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;transform: rotate(20deg);z-index:-1;"> 
+</div> 
 
 ## Мои навыки 🛠 
 
@@ -35,8 +40,6 @@
 --- 
 
 <div align="center"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:10%;left:20%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:50%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;"> 
-</div> 
-
+  <p>🐅 🦉 🐘</p>
+  <p>Животные всегда вдохновляют меня на новые замыслы и идеи!</p>
+</div>
