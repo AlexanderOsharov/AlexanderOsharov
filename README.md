@@ -2,11 +2,6 @@
 
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub! 
 
-<div align="center"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:10%;left:20%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:50%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;"> 
-</div> 
 
 ## Мои навыки 🛠 
 
@@ -39,48 +34,9 @@
 
 --- 
 
-<center>🐅 🦉 🐘</center> 
+<div align="center"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:10%;left:20%;"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:50%;"> 
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;"> 
+</div> 
 
-<style>
-  body{
-    background-color: #f8f8f8;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.8;
-    font-size: 16px;
-  }
-  h1, h2{
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    color: #2e2e2e;
-  }
-  h2{
-    font-size: 28px;
-  }
-  img{
-    opacity: 0.9;
-    transition: all 0.3s ease-in-out;
-  }
-  img:hover{
-    opacity: 1;
-  }
-  a{
-    color: #4d4d4d;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  a:hover{
-    color: #2e2e2e;
-  }
-  ul{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  li{
-    margin-bottom: 10px;
-  }
-  .center{
-    text-align: center;
-  }
-</style>
