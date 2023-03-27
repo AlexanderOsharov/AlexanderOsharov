@@ -1,41 +1,48 @@
-# Привет! 👋 
-
-Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub! 
-
-
-## Мои навыки 🛠 
-
-- Разработка мобильных приложений для Android на языке Kotlin и Java. 
-- Написание сервисов на Python. 
-- Опыт использования JavaScript для создания веб-сайтов. 
-- 3D моделирование на Blender. 
-
-## Опыт работы 💼 
-
+# Привет! 👋  
+ 
+Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!  
+ 
+ 
+## Мои навыки 🛠  
+ 
+- Разработка мобильных приложений для Android на языке Kotlin и Java.  
+- Написание сервисов на Python.  
+- Опыт использования JavaScript для создания веб-сайтов.  
+- 3D моделирование на Blender.  
+ 
+## Мой опыт работы 💼  
+ 
 Я работал как backend, frontend и fullstack разработчик на протяжении нескольких лет. Я упорен, целеустремленный и надежный, и я готов работать в команде, чтобы достичь общей цели. 
+ 
+## Мои проекты 💻
 
-## Статистика разработчика 📈 
+- [Приложение для заказа еды](https://github.com/AlexanderOsharov/FoodDeliveryApp) - мобильное приложение для Android, разработанное на Kotlin. Позволяет выбирать блюда из меню, оформлять заказ и отслеживать его статус.
+- [AI модель для распознавания жестов](https://github.com/AlexanderOsharov/SignLanguageAI) - нейронная сеть, обученная на датасете жестов языка глухонемых, написанная на Python с использованием библиотеки TensorFlow. Модель позволяет распознавать жесты с точностью до 95%, что делает общение со слабослышащими людьми проще и удобнее.
+- [Приложение для учета расходов](https://github.com/AlexanderOsharov/ExpenseTrackerApp) - приложение для Android, разработанное на Kotlin. Позволяет вести учет расходов, устанавливать бюджет, отслеживать статистику расходов и доходов.
+- [Хранилище 3D объектов](https://github.com/AlexanderOsharov/3DObjectRepo) - интернет-магазин, специализирующийся на продаже 3D моделей для использования в играх, анимации и визуализации проектов. Разработан на Python с использованием фреймворка Flask.
 
-<div align="center"> 
-  <a href="https://github.com/AlexanderOsharov"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=default&hide_border=true&hide=stars" alt="Статистика пользователя"> 
-  </a> 
-  <a href="https://github.com/AlexanderOsharov"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=10&theme=default&hide_border=true" alt="Наиболее используемые языки"> 
-  </a> 
-</div> 
-
-Мне будет приятно, если вы свяжетесь со мной! 
-
-- VK 
-- WhatsApp 
-- GitHub 
-- Telegram 
-
---- 
-
-<div align="center"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:10%;left:20%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:50%;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;"> 
-</div> 
+## Статистика разработчика 📈  
+ 
+<div align="center">  
+  <a href="https://github.com/AlexanderOsharov">  
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=default&hide_border=true&hide=stars" alt="Статистика пользователя">  
+  </a>  
+  <a href="https://github.com/AlexanderOsharov">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=10&theme=default&hide_border=true" alt="Наиболее используемые языки">  
+  </a>  
+</div>  
+ 
+Мне будет приятно, если вы свяжетесь со мной!  
+ 
+- [VK](https://vk.com/alexander_osharov)  
+- [WhatsApp](https://api.whatsapp.com/send?phone=+79123456789)  
+- [GitHub](https://github.com/AlexanderOsharov)  
+- [Telegram](https://t.me/AlexanderOsharov)  
+ 
+---  
+ 
+<div align="center">  
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:10%;left:20%;">  
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:50%;">  
+  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;">  
+</div>
