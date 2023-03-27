@@ -1,16 +1,14 @@
----
-title: Resume
-stylesheets:
-- https://github.com/AlexanderOsharov/AleksanderOsharov/assets/style.css
----
-
-[inline style overrides]
-
+```html
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <title>Мой сайт</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/r128/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/r128/examples/js/loaders/FBXLoader.js"></script>
 </head>
 <body>
 <div class="logo">
@@ -39,6 +37,9 @@ stylesheets:
         <img src="assets/whatsapp.png" alt="WhatsApp">
     </a>
 </div>
-    
+
+<script src="assets/script.js"></script>
 </body>
 </html>
+
+```
