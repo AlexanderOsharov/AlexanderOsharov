@@ -1,17 +1,42 @@
-# Мой сайт
+# Привет! 👋
 
-## Описание
-Это мой личный сайт, где я рассказываю о своих навыках и опыте работы. Здесь вы также можете найти ссылки на мои профили в социальных сетях и репозитории на GitHub.
+Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!
 
-## Навигация по сайту
-- Главная страница
-- Навыки
-- Опыт работы
+<!-- Зверушки -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/tiger.gif" alt="Tiger" width="75">
+  <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/owl.gif" alt="Owl" width="75">
+  <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/elephant.gif" alt="Elephant" width="75">
+</div>
 
-## Передвигающиеся зверушки
-Чтобы добавить веселые зверушки на свой сайт, можно воспользоваться специальными библиотеками, например [Lottie](https://lottiefiles.com/) или [GSAP](https://greensock.com/gsap/). На моем сайте я использовал библиотеку Lottie, которая позволяет добавлять анимированные JSON файлы.
+## Мои навыки 🛠
 
-## Статистика разработчика
-На GitHub есть возможность добавить свою статистику разработчика на свой README файл. Для этого нужно воспользоваться сервисами, например [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Он позволяет отображать статистику по количеству репозиториев, языкам программирования, статистике активности и многое другое.
+- Разработка мобильных приложений для Android на языке Kotlin и Java.
+- Написание сервисов на Python.
+- Опыт использования JavaScript для создания веб-сайтов.
+- 3D моделирование на Blender.
 
-![Статистика разработчика на GitHub](https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&theme=radical&hide=stars,contribs)
+## Опыт работы 💼
+
+Я работал как backend, frontend и fullstack разработчик на протяжении нескольких лет. Я упорен, целеустремленный и надежный, и я готов работать в команде, чтобы достичь общей цели.
+
+## Статистика разработчика 📈
+
+<!-- Добавьте этот код в свой README.md -->
+<div align="center">
+  <a href="https://github.com/AlexanderOsharov">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=default&hide_border=true&hide=stars" alt="Статистика пользователя">
+  </a>
+  <a href="https://github.com/AlexanderOsharov">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=10&theme=default&hide_border=true" alt="Наиболее используемые языки">
+  </a>
+</div>
+
+<!-- Конец кода README.md -->
+
+Мне будет приятно, если вы свяжетесь со мной!
+
+- [VK](https://vk.com/)
+- [WhatsApp](https://www.whatsapp.com/)
+- [GitHub](https://github.com/AlexanderOsharov)
+- [Telegram](https://telegram.org/)
