@@ -34,4 +34,3 @@
     
 </body>
 </html>
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderOsharov)](https://github.com/AlexanderOsharov/github-profile-trophy)
