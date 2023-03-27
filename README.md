@@ -1,45 +1,31 @@
-# Привет! 👋 
+Привет! 👋
+Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!
 
-Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub! 
+🏆 Достижения и сертификация
+Google Associate Android Developer
+Oracle Certified Java Developer
+Python Flask Web Development
+Мои навыки 🛠
+Разработка мобильных приложений для Android на языке Kotlin и Java.
+Написание сервисов на Python.
+Опыт использования JavaScript для создания веб-сайтов.
+3D моделирование на Blender.
+Проекты 📂
+TravelApp: Приложение для путешествий на Android (Kotlin)
+E-commerce Website: Веб-сайт для электронной коммерции на Flask (Python) и JavaScript
+3D Modeling Showcase: Портфолио с примерами 3D-моделей, созданных в Blender
+Опыт работы 💼
+Я работал как backend, frontend и fullstack разработчик на протяжении нескольких лет. Я упорен, целеустремленный и надежный, и я готов работать в команде, чтобы достичь общей цели.
 
-<div align="center"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75" style="position:absolute;top:15%;left:20%;transform: rotate(-20deg);z-index:-1;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75" style="position:absolute;top:70%;left:55%;transform: rotate(-10deg);z-index:-1;"> 
-  <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75" style="position:absolute;top:30%;right:20%;transform: rotate(20deg);z-index:-1;"> 
-</div> 
+Статистика разработчика 📈
+Статистика пользователяНаиболее используемые языки
+🌍 Языки
+Русский - родной
+Английский - свободно владею
+Испанский - базовый уровень
+Мне будет приятно, если вы свяжетесь со мной!
 
-## Мои навыки 🛠 
-
-- Разработка мобильных приложений для Android на языке Kotlin и Java. 
-- Написание сервисов на Python. 
-- Опыт использования JavaScript для создания веб-сайтов. 
-- 3D моделирование на Blender. 
-
-## Опыт работы 💼 
-
-Я работал как backend, frontend и fullstack разработчик на протяжении нескольких лет. Я упорен, целеустремленный и надежный, и я готов работать в команде, чтобы достичь общей цели. 
-
-## Статистика разработчика 📈 
-
-<div align="center"> 
-  <a href="https://github.com/AlexanderOsharov"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=default&hide_border=true&hide=stars" alt="Статистика пользователя"> 
-  </a> 
-  <a href="https://github.com/AlexanderOsharov"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=10&theme=default&hide_border=true" alt="Наиболее используемые языки"> 
-  </a> 
-</div> 
-
-Мне будет приятно, если вы свяжетесь со мной! 
-
-- VK 
-- WhatsApp 
-- GitHub 
-- Telegram 
-
---- 
-
-<div align="center"> 
-  <p>🐅 🦉 🐘</p>
-  <p>Животные всегда вдохновляют меня на новые замыслы и идеи!</p>
-</div>
+VK
+WhatsApp
+GitHub
+Telegram
