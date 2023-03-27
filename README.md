@@ -1,4 +1,4 @@
-# Привет! 👋
+<img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/owl.gif" alt="Owl" width="75"> # Привет! 👋
 
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!
 
@@ -8,7 +8,7 @@
   <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/elephant.gif" alt="Elephant" width="75">
 </div>
 
-## Мои навыки 🛠
+## Мои навыки 🛠 <img src="https://github.com/AlexanderOsharov/AleksanderOsharov/blob/main/assets/tiger.gif" alt="Tiger" width="75">
 
 - Разработка мобильных приложений для Android на языке Kotlin и Java.
 - Написание сервисов на Python.
