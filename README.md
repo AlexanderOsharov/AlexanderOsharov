@@ -3,7 +3,7 @@
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!
 
 <!-- Зверушки -->
-  <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/tiger.gif" alt="Tiger" width="75">
+  <img src="https://github.com/AlexanderOsharov/AlexanderOsharov/main/assets/tiger.gif" alt="Tiger" width="75">
   <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/owl.gif" alt="Owl" width="75">
   <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/elephant.gif" alt="Elephant" width="75">
 </div>
