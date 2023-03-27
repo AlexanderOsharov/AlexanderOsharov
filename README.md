@@ -4,7 +4,7 @@
 
 <!-- Зверушки -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/tiger.gif" alt="Tiger" width="75">
+  <div class="tenor-gif-embed" data-postid="19670449" data-share-method="host" data-aspect-ratio="1.64103" data-width="100%"><a href="https://tenor.com/view/tiger-gif-19670449">Tiger Sticker</a>from <a href="https://tenor.com/search/tiger-stickers">Tiger Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/owl.gif" alt="Owl" width="75">
   <img src="https://raw.githubusercontent.com/AlexanderOsharov/AlexanderOsharov/main/assets/elephant.gif" alt="Elephant" width="75">
 </div>
