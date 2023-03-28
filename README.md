@@ -5,7 +5,7 @@
  
 ## Мои навыки 🛠  
  
-[- Разработка мобильных приложений для Android на языке Kotlin и Java.  ](https://memwor.bitrix24.site/)
+- [Разработка мобильных приложений для Android на языке Kotlin и Java.  ](https://memwor.bitrix24.site/)
 - Написание сервисов на Python.  
 - Опыт использования JavaScript для создания веб-сайтов.  
 - 3D моделирование на Blender.  
