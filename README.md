@@ -3,11 +3,11 @@
 Меня зовут Александр, и я разработчик. Рад приветствовать вас на моем профиле GitHub!  
  
  
-## Мои навыки 🛠  
+## [Мои навыки 🛠  ](https://memwor.bitrix24.site/)
  
-- [Разработка мобильных приложений для Android на языке Kotlin и Java.  ](https://memwor.bitrix24.site/)
-- [Написание сервисов на Python.  ](https://gitlab.informatics.ru/SHURIK/kr)
-- [Опыт использования JavaScript для создания веб-сайтов.  ](https://alexanderosharov.github.io/resume/)
+- Разработка мобильных приложений для Android на языке Kotlin и Java.  
+- Написание сервисов на Python.  
+- Опыт использования JavaScript для создания веб-сайтов.  
 - 3D моделирование на Blender.  
  
 ## Мой опыт работы 💼  
