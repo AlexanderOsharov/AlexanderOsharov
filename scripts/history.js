@@ -31,7 +31,7 @@ const posts = [
   },
   {
     src: 'improv-icon.png',
-    link: 'https://github.com/AlexanderOsharov/AlexanderOsharov/videos/super_optimized_optimized_improv.mp4',
+    link: 'https://github.com/AlexanderOsharov/AlexanderOsharov/blob/main/videos/super_optimized_optimized_improv.mp4',
     desc: 'Демонстрация навыков общения и принятия быстрых решений в команде.',
     title: 'Improv club'
   },
