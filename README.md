@@ -17,11 +17,22 @@
   <br>
 
   <!-- Stats -->
-  <a href="https://github.com/AlexanderOsharov">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderOsharov&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=stars" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AlexanderOsharov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsharov&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  ## 📊 Моя GitHub-статистика (без оценок, только факты)
+
+<div align="center">
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderOsharov&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
+  <br><br>
+
+  <!-- Commits Highlight -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🔥+181+коммитов+в+2025+—+и+это+только+начало!" alt="Commits 2025" />
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderOsharov&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
   </a>
 
   <br><br>
