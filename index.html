@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <link rel="icon" href="images/icon.png" type="image/x-icon">
+  <title>Александр Ошаров | Портфолио</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="scripts/main.js" defer></script>
+  <script src="scripts/background.js" defer></script>
+  <script src="scripts/history.js" defer></script>
+  <script src="scripts/motivation.js" defer></script>
+  <script src="scripts/map.js" defer></script>
+  <script src="scripts/neon-links.js" defer></script>
+  <script src="scripts/media-modal.js" defer></script>
+</head>
+<body class="dark-mode">
+  <!-- Фон: случайные фото -->
+  <div id="background-wall"></div>
+
+  <!-- Неоновые связи -->
+  <canvas id="neon-canvas"></canvas>
+
+  <!-- Переключатель темы -->
+  <div id="theme-toggle" class="theme-toggle">
+    <span class="theme-icon">🌙</span>
+  </div>
+
+  <!-- Мотивационная зона -->
+  <div id="motivation" class="motivation-zone">
+    <div class="motivation-header">
+      <p>49 причин, почему я — чудо!</p>
+    </div>
+  </div>
+
+  <!-- Карта с аватарками -->
+  <div id="map" class="map-zone"></div>
+
+  <!-- Лента истории -->
+  <div id="history" class="history-zone">
+    <div class="history-track"></div>
+  </div>
+
+  <!-- Модальное окно -->
+  <div id="media-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="modal-close">&times;</span>
+      <div class="modal-body"></div>
+      <div class="modal-controls"></div>
+    </div>
+  </div>
+
+  <!-- Скрытый аудиоплеер -->
+  <audio id="bg-audio" loop></audio>
+</body>
+</html>
